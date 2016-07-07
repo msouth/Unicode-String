@@ -21,7 +21,7 @@ require DynaLoader;
     byteswap2 byteswap4
 );
 
-$VERSION = '2.09'; # $Id: String.pm,v 1.35 2005/10/26 08:13:10 gisle Exp $
+$VERSION = '2.10'; # $Id: String.pm,v 1.35 2005/10/26 08:13:10 gisle Exp $
 
 $UTF7_OPTIONAL_DIRECT_CHARS ||= 1;
 
